@@ -14,10 +14,6 @@
 
 # *I am willing to collaborate as a team player building better code.*
 
-### Hit this over the terminal or console, to know more about me.
-```
-npx Darko
-```
 
 ### I know more about- </br>
 ![Flutter & Dart](https://venturebeat.com/wp-content/uploads/2019/09/google-dart-flutter.png?fit=300%2C400&strip=all)
